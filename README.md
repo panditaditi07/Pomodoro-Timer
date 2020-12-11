@@ -8,3 +8,5 @@ In this timer :
 2. And you have 5mins of break.
 3. `setInterval()` is used to start the timer.
    For complete documentation refer this [link](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
+
+[Demo link](https://panditaditi07.github.io/Pomodoro-Timer/.)
